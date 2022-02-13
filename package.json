@@ -1,0 +1,13 @@
+{
+  "name": "ast-research",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "acorn": "^8.7.0",
+    "recast": "^0.20.5"
+  }
+}
